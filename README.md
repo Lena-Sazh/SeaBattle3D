@@ -18,3 +18,7 @@ ___
 * <a href="https://habr.com/ru/company/haulmont/blog/341402/">Kotlin DSL</a>
 * <a href="https://habr.com/ru/company/redmadrobot/blog/301174/">Kotlin Generics</a>
 * <a href="https://kotlinlang.org/docs/typesafe-html-dsl.html">Typesafe HTML DSL</a>
+* <a href="https://medium.com/@hbahuguna/integration-test-code-coverage-on-containers-using-jacoco-561a95703060">Code coverage with JaCoCo</a>
+* <a href="https://github.com/allure-framework">Allure Repo</a>
+
+
