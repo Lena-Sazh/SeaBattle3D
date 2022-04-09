@@ -14,3 +14,7 @@ ___
 
 * <a href="https://russianblogs.com/article/36271384218/">Kotlin quick start</a>
 * <a href="https://exercism.org/tracks/kotlin">Kotlin course</a>
+* <a href="https://kotlinlang.ru/docs/collections-overview.html">Kotlin Collections</a>
+* <a href="https://habr.com/ru/company/haulmont/blog/341402/">Kotlin DSL</a>
+* <a href="https://habr.com/ru/company/redmadrobot/blog/301174/">Kotlin Generics</a>
+* <a href="https://kotlinlang.org/docs/typesafe-html-dsl.html">Typesafe HTML DSL</a>
